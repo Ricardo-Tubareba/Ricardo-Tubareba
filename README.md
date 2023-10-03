@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Ricardo Tubareba 😁
 
  <div>
-   <a href="https://github.com/devemdobro">
+   <a href="https://github.com/ricardo-tubareba">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Tubareba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Tubareba&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
